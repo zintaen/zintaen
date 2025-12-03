@@ -8,7 +8,7 @@ Software Engineer & Singer
 
 * 🌍  I'm based in Vietnam
 * ✉️  You can contact me at [zintaen@gmail.com](mailto:zintaen@gmail.com)
-* 🚀  I'm currently working on [Caddi Vietnam](http://caddi.asia)
+* 🚀  I'm currently unemployed
 * 🧠  I'm learning new technology everyday
 * 🤝  I'm open to collaborating on Education & Healthcare projects
 * ⚡  Yes I can sing
