@@ -1,0 +1,21 @@
+name: Latest blog post workflow
+on:
+  workflow_dispatch:
+  schedule:
+    # Runs every 6 hours
+    - cron: "0 */6 * * *"
+
+jobs:
+  update-readme-with-blog:
+    name: Update README with latest Medium posts
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://medium.com/feed/@zintaen"
+          max_post_count: 5
+          template: "- [$title]($url) <sub>$date</sub>"
+          date_format: "mmm dd, yyyy"

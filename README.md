@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=760&lines=Hi+%F0%9F%91%8B+I'm+Stephen+Cheng+(Tr%E1%BB%8Bnh+Th%C3%A1i+Anh);AI-First+Solution+Architect+%C2%B7+10%2B+yrs;Agentic+AI+%E2%80%A2+RAG+%E2%80%A2+Low-latency+Microservices;Cutting+cloud+spend+35%25+%E2%80%A2+latency+60%25;Also%2C+yes+%E2%80%94+I+sing+%F0%9F%8E%A4" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=FACC15&center=true&vCenter=true&width=820&lines=Hi+%F0%9F%91%8B+I'm+Stephen+Cheng+(Tr%E1%BB%8Bnh+Th%C3%A1i+Anh);AI-First+Solution+Architect+%C2%B7+10%2B+yrs;Anthropic+Claude+Certified+%E2%80%A2+Microsoft+Agentic+AI;Agentic+AI+%E2%80%A2+RAG+%E2%80%A2+Low-latency+Microservices;Cutting+cloud+spend+35%25+%E2%80%A2+latency+60%25;Also%2C+yes+%E2%80%94+I+sing+%F0%9F%8E%A4" alt="Typing SVG" />
 
 # Stephen Cheng <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28"/>
 
@@ -16,6 +16,10 @@
 <a href="https://www.github.com/zintaen"><img src="https://img.shields.io/github/followers/zintaen?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917&label=Follow" /></a>
 <img src="https://komarev.com/ghpvc/?username=zintaen&style=for-the-badge&color=ef4444&labelColor=1c1917&label=Profile+Views"/>
 </p>
+
+<br/>
+
+> **"Ships in harbor are safe, but that's not what ships are built for."** 🚢
 
 </div>
 
@@ -206,6 +210,71 @@ I design **Agentic AI workflows**, **RAG pipelines**, and **low-latency microser
 
 ---
 
+### 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/zintaen/dom-defender">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zintaen&repo=dom-defender&title_color=facc15&text_color=facc15&icon_color=ef4444&bg_color=1c1917&hide_border=true" />
+</a>
+<a href="https://github.com/zintaen/gam">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zintaen&repo=gam&title_color=facc15&text_color=facc15&icon_color=ef4444&bg_color=1c1917&hide_border=true" />
+</a>
+<a href="https://github.com/zintaen/wife-cv">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=zintaen&repo=wife-cv&title_color=facc15&text_color=facc15&icon_color=ef4444&bg_color=1c1917&hide_border=true" />
+</a>
+
+</div>
+
+<table>
+<tr>
+  <td width="33%" valign="top">
+    <h4>🛡️ <a href="https://github.com/zintaen/dom-defender">dom-defender</a></h4>
+    <sub>Runtime DOM hardening & tamper detection for React + TypeScript apps. A lightweight guardrail layer that watches for injected nodes, prototype pollution, and script-tag smuggling before they reach your users.</sub>
+    <br/><br/>
+    <sub><b>Stack:</b> React · TypeScript · Vite · Tailwind</sub>
+  </td>
+  <td width="33%" valign="top">
+    <h4>⚙️ <a href="https://github.com/zintaen/gam">gam — Git Alias Manager</a></h4>
+    <sub>Cross-platform Tauri desktop app + CLI for managing git aliases. 270+ curated aliases, 229 tests, Rust core with a React/TS shell. The tool I wish existed when I was onboarding engineers across 6 repos.</sub>
+    <br/><br/>
+    <sub><b>Stack:</b> Rust · Tauri · React · TypeScript</sub>
+  </td>
+  <td width="33%" valign="top">
+    <h4>💌 <a href="https://github.com/zintaen/wife-cv">wife-cv</a></h4>
+    <sub>A hand-crafted, design-forward résumé web app built for my wife — with a moodboard-driven visual system, custom fonts, and a tiny Node server. Proof that a CV can have a point of view.</sub>
+    <br/><br/>
+    <sub><b>Stack:</b> TypeScript · Vite · Node.js</sub>
+  </td>
+</tr>
+</table>
+
+---
+
+### ✍️ Writing
+
+Long-form notes on agentic AI, RAG architecture, inference economics, and the occasional rant about micro-frontends — on <a href="https://medium.com/@zintaen"><b>Medium</b></a>.
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<p align="left">
+  <a href="https://medium.com/@zintaen"><img src="https://img.shields.io/badge/Medium-@zintaen-1c1917?style=for-the-badge&logo=medium&logoColor=facc15&labelColor=1c1917" alt="Medium"/></a>
+</p>
+
+---
+
+### 📅 Book a 30-min architecture chat
+
+If you're standing up agentic AI, debating a RAG stack, or trying to cut inference cost in half — grab a slot. First call's on me.
+
+<p align="left">
+  <a href="https://cal.com/zintaen"><img src="https://img.shields.io/badge/Book_via_Cal.com-facc15?style=for-the-badge&logo=caldotcom&logoColor=1c1917&labelColor=1c1917" alt="Book via Cal.com"/></a>
+  <a href="mailto:zintaen@gmail.com"><img src="https://img.shields.io/badge/Or_Email_Me-ef4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c1917" alt="Email"/></a>
+</p>
+
+---
+
 ### 📈 GitHub Pulse
 
 <div align="center">
@@ -213,9 +282,9 @@ I design **Agentic AI workflows**, **RAG pipelines**, and **low-latency microser
 <a href="http://www.github.com/zintaen"><img height="165" src="https://github-readme-stats.vercel.app/api?username=zintaen&show_icons=true&count_private=true&title_color=facc15&text_color=facc15&icon_color=ef4444&bg_color=1c1917&hide_border=true" alt="zintaen's GitHub stats" /></a>
 <a href="http://www.github.com/zintaen"><img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=zintaen&stroke=facc15&background=1c1917&ring=facc15&fire=ef4444&currStreakNum=facc15&currStreakLabel=facc15&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
 
-<a href="https://github.com/zintaen"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zintaen&langs_count=8&layout=compact&title_color=facc15&text_color=facc15&icon_color=ef4444&bg_color=1c1917&hide_border=true&custom_title=Top+Languages" alt="Top Languages" /></a>
+<a href="https://github.com/zintaen"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zintaen&langs_count=6&layout=compact&title_color=facc15&text_color=facc15&icon_color=ef4444&bg_color=1c1917&hide_border=true&hide=coffeescript,plpgsql,ruby,html,css&custom_title=Top+Languages" alt="Top Languages" /></a>
 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zintaen&theme=radical&column=7&margin-w=10&margin-h=10" alt="trophies"/></a>
+<a href="https://github.com/zintaen"><img src="https://github-readme-activity-graph.vercel.app/graph?username=zintaen&bg_color=1c1917&color=facc15&line=ef4444&point=facc15&area_color=facc15&area=true&hide_border=true&custom_title=Contribution+Activity" alt="Activity Graph" width="95%"/></a>
 
 </div>
 
