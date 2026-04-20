@@ -215,7 +215,7 @@ I design **Agentic AI workflows**, **RAG pipelines**, and **low-latency microser
 
 <a href="https://github.com/zintaen"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zintaen&langs_count=8&layout=compact&title_color=facc15&text_color=facc15&icon_color=ef4444&bg_color=1c1917&hide_border=true&custom_title=Top+Languages" alt="Top Languages" /></a>
 
-<img src="https://github-profile-trophy.vercel.app/?username=zintaen&theme=nord&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zintaen&theme=radical&column=7&margin-w=10&margin-h=10" alt="trophies"/></a>
 
 </div>
 
@@ -232,20 +232,18 @@ I'm most useful to teams that are:
 
 If any of that sounds like your week — <a href="mailto:zintaen@gmail.com"><b>say hi</b></a>.
 
-<br/>
-
 <p align="left">
-<a href="https://www.facebook.com/zinkristen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook"/></a>&nbsp;
-<a href="https://www.github.com/zintaen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/zintaen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn"/></a>&nbsp;
-<a href="mailto:zintaen@gmail.com"><img src="https://img.shields.io/badge/-zintaen%40gmail.com-ef4444?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/zintaen"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.github.com/zintaen"><img src="https://img.shields.io/badge/GitHub-1c1917?style=for-the-badge&logo=github&logoColor=facc15" alt="GitHub"/></a>
+  <a href="https://www.facebook.com/zinkristen"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <a href="mailto:zintaen@gmail.com"><img src="https://img.shields.io/badge/Gmail-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-### ☕ Support
+### ☕ Support my work
 
 <p align="left">
-<a href="https://www.buymeacoffee.com/cyberskill"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>&nbsp;
-<a href="https://www.ko-fi.com/cyberskill"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a>
+  <a href="https://www.buymeacoffee.com/cyberskill"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=1c1917" alt="Buy Me A Coffee"/></a>
+  <a href="https://www.ko-fi.com/cyberskill"><img src="https://img.shields.io/badge/Ko--fi-ef4444?style=for-the-badge&logo=kofi&logoColor=white" alt="Ko-fi"/></a>
 </p>
 
 <div align="center">
